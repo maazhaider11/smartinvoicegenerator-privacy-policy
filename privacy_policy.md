@@ -1,4 +1,4 @@
-# Privacy Policy for Smart Invoice Generator
+# Privacy Policy for Feedo – Fee Manager
 
   **Last updated: October 9, 2026**
 
